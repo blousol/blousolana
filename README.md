@@ -14,3 +14,5 @@ MOON Q2/Q3
 • Achieve 40,000 Holders
 • Launch Global Marketing Campaign
 • Secure Tier 1 CEX Listings
+
+Nothing is set in stone as we will make changes on this roadmap day to day.
