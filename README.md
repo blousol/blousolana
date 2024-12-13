@@ -1,5 +1,4 @@
-# blousolana
-BLOU ROADMAP
+# BLOU ROADMAP
 Launch Token Q1
 • Achieve 3,000 Holders
 • Cultivate $BLOU Community
